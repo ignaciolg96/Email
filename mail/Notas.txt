@@ -1,0 +1,13 @@
+NOTAS VARIAS:
+
+    > Una flasherita: probé usar un .js avanzado, para después volver al inicial. Al intentarlo, no veia los cambios, el 'retroceso' de
+      la página. Buscando, encontré que una solución era Inspeccionar->Network->Disable cache. Se ve que en algun momento se guarda 
+      unas datas! 
+
+  1. SEND MAIL:
+
+    > Mails can be sent. User is redirected to sent mailbox. 
+
+    FIX ME:
+      - Check fields?
+      - Erased emails get deleted when refreshing, not inmediately after pressing the delete button.

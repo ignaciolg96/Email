@@ -1,0 +1,31 @@
+textarea {
+    min-height: 400px;
+}
+
+.border-secondary {
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.btn-danger {
+    margin: 5px;
+}
+
+.btn-success {
+    margin: 5px;
+}
+
+.btn-warning {
+    margin: 5px;
+}
+
+.mt-2 {
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.mb-3 {
+    border-radius: 5px;
+    padding: 5px;
+}
+
