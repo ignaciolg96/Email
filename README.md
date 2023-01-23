@@ -13,7 +13,7 @@ To get up and running straigth away:
             $ py manage.py makemigrations
             $ py manage.py migrate
 ```
-   You may may want to clear the db and try from scratch by yourself. 
+   You may  want to clear the db and try from scratch by yourself. 
 4. Run:
 ```bash
             $ py manage.py runserver
